@@ -19,3 +19,4 @@ path_to_staged <- paste0(pre_box, 'Box/MARS Curation Workspace/EMA/Release v1.0.
 # Outputs
 path_to_outputs_4_analysis <- paste0(pre_box, 'Box/MARS Curated Data/EMA/Release v1.0.0')
 path_to_outputs_4_datamanagers <- paste0(pre_box, 'Box/MARS Curated Data - available upon request/EMA/Release v1.0.0')
+
