@@ -1,3 +1,6 @@
+# file paths
+paths.R
+
 # quarto files 
 *.qmd
 
